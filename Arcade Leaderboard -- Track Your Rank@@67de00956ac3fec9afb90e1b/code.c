@@ -11,7 +11,7 @@ int remove_duplicates(int arr[], int n, int unique[]) {
     return j; // return new size
 }
 
-int main() {
+ {
     int n, m;
     scanf("%d", &n);
 
